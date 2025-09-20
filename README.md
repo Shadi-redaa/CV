@@ -39,7 +39,7 @@ Shadi Reda is a person who has a deep understanding of data analysis principles,
 
 ---
 
-## 📂 Projects
+##  Projects
 
 Here are some of my featured Data Analysis projects:
 
