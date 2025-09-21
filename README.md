@@ -52,6 +52,8 @@ Here are some of my featured Data Analysis projects:
 - [Market Basket Analysis Dashboard](https://github.com/Shadi-redaa/Market-Basket-Analysis-Dashboard)  
   Identifying customer purchasing behavior, cross-selling opportunities, and product bundling insights.
 
+- [HR Attrition Employees Dashboard](https://github.com/Shadi-redaa/HR-Attrition-Employees-Dashboard)  
+  Power BI dashboard analyzing employee attrition trends, highlighting key drivers such as job roles, satisfaction levels, stock options, and age groups to support HR decision-making.
 ---
 
 ## Language Skills  
